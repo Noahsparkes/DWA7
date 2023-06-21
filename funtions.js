@@ -24,6 +24,7 @@ const FRAGMENT = document.createDocumentFragment();
  * @param {object} book - The book object.
  * @returns {object} The book preview object.
  */
+
 const createBookPreview = (book) => {
   /**
    * Renders the book preview HTML.
